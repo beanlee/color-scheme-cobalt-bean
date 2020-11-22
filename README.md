@@ -4,4 +4,4 @@ inspired by [Cobalt2](https://github.com/wesbos/cobalt2), Thanks to [Wes Bos](ht
 
 It works for the series of IDEAJ tools.
 
-![](./preview/webstorm-preview.png);
+![](./preview/webstorm-preview.png)
