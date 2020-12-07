@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31a094e7-d440-4f39-86c2-c235f302d95c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/color-scheme-cobalt-bean.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/color-scheme-cobalt-bean.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cobalt Beanlee.icls" beforeDir="false" afterPath="$PROJECT_DIR$/Cobalt Beanlee.icls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preview/webstorm-preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/preview/webstorm-preview.png" afterDir="false" />
     </list>
     <disabled>
       <disabled_changelists>
@@ -21,6 +29,16 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="73a3d6b4-74b3-4ed7-b684-098ac5622e77" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/beanlee/color-scheme-cobalt-bean" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1kzCyFWBAXweqrsHFus58qCfqag" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -34,6 +52,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606694286008</updated>
-      <workItem from="1606694287972" duration="315000" />
+      <workItem from="1606694287972" duration="1871000" />
+      <workItem from="1607333831349" duration="383000" />
     </task>
     <servers />
   </component>
@@ -61,5 +82,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
